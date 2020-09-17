@@ -1,0 +1,169 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.7rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+}
+
+h4 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  
+}
+
+.middle-container {
+  margin: 100px 0;
+ 
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 10px auto 10px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.code-img {
+  width: 25%;
+  
+  float: left;
+  margin-right: 50px;
+}
+
+.skill-img {
+  width: 25%;
+  float: right;
+  margin-left: 10px;
+}
+
+.profile-image {
+  border-radius: 50%;
+}
+
+
+
+.colored-section {
+  background-color: #66BFBF;
+  color: #fff;
+  height: 80px;
+  
+}
+
+/* Navigation Bar */
+
+.fixed {
+  position: sticky;
+  top:0;
+  width: 100%;
+  z-index: 2;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+ 
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.8rem;
+  font-family: "Montserrat-Light";
+}
+
+ul {
+  padding-left: 100px;
+}
+
+
+
+
+
+
+
+
